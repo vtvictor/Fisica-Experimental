@@ -34,4 +34,4 @@ program IntegraisNumericas
     write(*,*) 'Integral:'
     write(*,'(F8.2)') integral
     
-end program integrais
+end program IntegraisNumericas

@@ -30,4 +30,4 @@ program IncertezasRelativas
     write(*,*) 'Incerteza = ', incerteza
     write(*,*) 'Incerteza relativa (%) = ', incerteza_relativa
     
-end program incertezas_relativas
+end program IncertezasRelativas
