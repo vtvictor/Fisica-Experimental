@@ -21,4 +21,4 @@ program DerivadaPolinomio
     else
         write(*,*) 'Grau do polinomio muito elevado!'
     end if
-end program derivada_polinomio
+end program DerivadaPolinomio
