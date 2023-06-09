@@ -33,4 +33,4 @@ program DerivadasNumericas
         write(*,'(F6.2,F8.2)') x(i), dydx(i)
     end do
     
-end program derivadas
+end program DerivadasNumericas
