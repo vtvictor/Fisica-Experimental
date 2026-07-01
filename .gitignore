@@ -1,0 +1,49 @@
+# Compiled object files
+*.o
+*.lo
+*.la
+*.obj
+*.exe
+*.out
+*.app
+
+# Fortran modules
+*.mod
+*.smod
+
+# Static libraries
+*.lai
+*.la
+*.lo
+*.a
+*.lib
+
+# Shared libraries (including Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Temporary files
+*.bak
+*~
+#*.orig
+#*.rej
+
+# Build directories
+_build/
+CMakeFiles/
+CMakeCache.txt
+Dartage/
+Dartage.tcl
+Makefile
+cmake-install.cmake
+CPack*.cmake
+
+# Others
+.DS_Thumbs.db
