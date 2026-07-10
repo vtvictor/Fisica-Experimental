@@ -4,6 +4,7 @@
 !  projétil lançado com velocidade v0 e ângulo theta (em graus)
 !  em relação à horizontal, assumindo ausência de resistência do ar
 !  e aceleração da gravidade g = 9.81 m/s².
+!  test
 !=======================================================================
 program Projetil
     implicit none
